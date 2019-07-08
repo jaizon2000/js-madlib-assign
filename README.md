@@ -1,3 +1,3 @@
 # js-madlib-assign
 
-Converts Farenheit to Celsius
+Gets input from user and puts it into a story/sentence.
