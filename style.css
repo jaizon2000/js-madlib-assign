@@ -1,0 +1,25 @@
+body {
+    font-family: 'Karla', sans-serif;
+    margin: 0 auto;
+    width: 700px;
+    background-color: skyblue;
+}
+div.main {
+    
+    padding: 70px;
+}
+div.result-box {
+    font-size: 30px;
+    
+}
+
+h1,
+h2 {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+h1 {
+    font-variant: small-caps;
+    font-size: 50px;
+    letter-spacing: 5px;
+}
