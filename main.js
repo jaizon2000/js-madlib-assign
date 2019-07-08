@@ -11,7 +11,7 @@ function main() {
     let pt_verb = document.getElementById('pt-verb').value;
     let noun = document.getElementById('noun').value;
 
-    let result = 'There are too many ' + verb + ' ' + p_noun + ' on this ' + adj + ' airplane!, I screamed.  “Somebody has to ' + pt_verb + ' on the ' + noun + ' to solve this problem!';
+    let result = '"There are too many ' + verb + ' ' + p_noun + ' on this ' + adj + ' airplane!", I screamed.  “Somebody has to ' + pt_verb + ' on the ' + noun + ' to solve this problem!"';
 
     // Output
     document.getElementById('result').innerHTML = result;
